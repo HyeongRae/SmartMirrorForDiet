@@ -1,0 +1,11 @@
+{
+	"lessons": {
+		"mon": [ "Potions", "Defense against the Dark Arts", "Lunch Break", "Transfiguration" ],  
+		"tue": [ "asdf", "Astronomy", "Lunch Break", "Charms", "History of Magic" ],
+		"wed": [ "Arithmancy", "Divination", "Lunch Break", "Muggle Studies", "Herbology" ],
+		"thu": [ "Care of Magical Creatures", "Lunch Break", "Transfiguration", "Charms" ],
+		"fri": [ "Herbology", "Lunch Break", "Charms", "Defense against the Dark Arts" ],
+		"sat": [ ""],
+		"sun": [ "", "Quidditch Match", "Sunday Lunch" ] 
+	}
+}
