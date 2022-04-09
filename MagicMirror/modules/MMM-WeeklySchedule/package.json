@@ -10,6 +10,6 @@
         "url": "git+https://github.com/pinsdorf/MMM-WeeklySchedule.git"
     },
     "dependencies": {
-        "moment": ">=2.20.0"
+        "moment": ">=2.29.2"
     }
 }
